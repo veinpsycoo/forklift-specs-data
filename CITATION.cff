@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "ForkliftCompare \u2014 forklift specification dataset"
+authors:
+  - name: "ForkliftCompare"
+url: "https://forkliftcompare.net/"
+date-released: 2026-09-24
+license: CC-BY-4.0

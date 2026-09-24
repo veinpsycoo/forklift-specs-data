@@ -1,0 +1,1867 @@
+{
+  "hyster/h2-0a": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3861,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3861,
+        "residual": 0
+      },
+      {
+        "computed": 4061,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4061,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "9678b56599463382f79c962be8fcb4a6e2f3734375b6341e779d929a63e52f80",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3861,
+      "ast_long": 4061,
+      "b13": 640,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h2-0a",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2191,
+      "wheels": "2x / 2",
+      "x": 470
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-0a-lpg": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3861,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3861,
+        "residual": 0
+      },
+      {
+        "computed": 4061,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4061,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "152e369ea05355936b3ddacf17276f79ee3a71e80a0d9f422758d98f1a82be25",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3861,
+      "ast_long": 4061,
+      "b13": 640,
+      "category": "LPG Forklifts",
+      "identity": "hyster/h2-0a-lpg",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2191,
+      "wheels": "2x / 2",
+      "x": 470
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-0ft": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3820,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3820,
+        "residual": 0
+      },
+      {
+        "computed": 4020,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4020,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "a29b301eb8371eb02190be425603867e5794020e849607566602c49aaca90c30",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3820,
+      "ast_long": 4020,
+      "b13": 629,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h2-0ft",
+      "source_date": "2018-10-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h2.0-3.5ft/h2.0-3.5ft-p177-dsl-tg-10-2018-noneu-rev01-en.pdf",
+      "wa": 2149,
+      "wheels": "2x / 2",
+      "x": 471
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-5a": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3933,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3933,
+        "residual": 0
+      },
+      {
+        "computed": 4133,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4133,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "d617684ff7c65d6018a4e3675fb68e11639a21ad4250babf78ac539161c78acf",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3933,
+      "ast_long": 4133,
+      "b13": 640,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h2-5a",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2263,
+      "wheels": "2x / 2",
+      "x": 470
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-5a-lpg": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3933,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3933,
+        "residual": 0
+      },
+      {
+        "computed": 4133,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4133,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "326f491e964d7df25b2a28c7b84f54722fc5becc9ea434a8b74719c00f1dea26",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3933,
+      "ast_long": 4133,
+      "b13": 640,
+      "category": "LPG Forklifts",
+      "identity": "hyster/h2-5a-lpg",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2263,
+      "wheels": "2x / 2",
+      "x": 470
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-5a6": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4028,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4027,
+        "residual": 1
+      },
+      {
+        "computed": 4228,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4227,
+        "residual": 1
+      }
+    ],
+    "fingerprint": "eb894c3a1e6007df14157136ba0350b722cd052403348b58d1939a0e10c49ceb",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4027,
+      "ast_long": 4227,
+      "b13": 660,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h2-5a6",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2333,
+      "wheels": "2x / 2",
+      "x": 495
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h2-5ft": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3887,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3887,
+        "residual": 0
+      },
+      {
+        "computed": 4087,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4087,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "b7ea97a7f0ed0db8060684c19cd7c6ea50e73289b80f795f8e5f41c027ea9ce2",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3887,
+      "ast_long": 4087,
+      "b13": 629,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h2-5ft",
+      "source_date": "2018-10-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h2.0-3.5ft/h2.0-3.5ft-p177-dsl-tg-10-2018-noneu-rev01-en.pdf",
+      "wa": 2216,
+      "wheels": "2x / 2",
+      "x": 471
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-0a": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4069,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4069,
+        "residual": 0
+      },
+      {
+        "computed": 4269,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4269,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "b34872cc0f8d219cc677fa5f70e4f7f2e50a34c0dd95463ae7573d0568bc99b6",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4069,
+      "ast_long": 4269,
+      "b13": 660,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h3-0a",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2374,
+      "wheels": "2x / 2",
+      "x": 495
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-0a-lpg": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4069,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4069,
+        "residual": 0
+      },
+      {
+        "computed": 4269,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4269,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "0b49f391508ed69d2c5b4e5eeeeff12e2b050e55fb2879688fd70229de151d40",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4069,
+      "ast_long": 4269,
+      "b13": 660,
+      "category": "LPG Forklifts",
+      "identity": "hyster/h3-0a-lpg",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2374,
+      "wheels": "2x / 2",
+      "x": 495
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-0ft": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3960,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3960,
+        "residual": 0
+      },
+      {
+        "computed": 4160,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4160,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "efd23d00b0322e54d3f4505f5f9acaa01f963d15fc6c5b3719e4bad7eb6caf42",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3960,
+      "ast_long": 4160,
+      "b13": 618,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h3-0ft",
+      "source_date": "2018-10-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h2.0-3.5ft/h2.0-3.5ft-p177-dsl-tg-10-2018-noneu-rev01-en.pdf",
+      "wa": 2277,
+      "wheels": "2x / 2",
+      "x": 483
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-5a": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4144,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4144,
+        "residual": 0
+      },
+      {
+        "computed": 4344,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4344,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "08f1398b6d86418470bb59bfd8e2ab29c8a71a6a746e74ff353e28c86c889718",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4144,
+      "ast_long": 4344,
+      "b13": 660,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h3-5a",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2449,
+      "wheels": "2x / 2",
+      "x": 495
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-5a-lpg": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4144,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4144,
+        "residual": 0
+      },
+      {
+        "computed": 4344,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4344,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "312ea305445903564dc0bcd899729772f4d67b67fd2b17444db77111a392ef0d",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4144,
+      "ast_long": 4344,
+      "b13": 660,
+      "category": "LPG Forklifts",
+      "identity": "hyster/h3-5a-lpg",
+      "source_date": "2022-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/spotlight--promotions/3991741-h2.5-3.5a-eu-tg-rev02-en-low-res.pdf",
+      "wa": 2449,
+      "wheels": "2x / 2",
+      "x": 495
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h3-5ft": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4063,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4063,
+        "residual": 0
+      },
+      {
+        "computed": 4263,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4263,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "4ff1ba7f4cd85277abd5b2d6f3d0412959450bf588ca1a6ba0a95663cb147363",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4063,
+      "ast_long": 4263,
+      "b13": 647,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h3-5ft",
+      "source_date": "2018-10-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h2.0-3.5ft/h2.0-3.5ft-p177-dsl-tg-10-2018-noneu-rev01-en.pdf",
+      "wa": 2380,
+      "wheels": "2x / 2",
+      "x": 483
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h4-0ft5": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4293,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4493,
+        "residual": -200
+      }
+    ],
+    "fingerprint": "52857c1db4aafede56dada949a41dbea190436ad0b6c60b688adfccc366d96ce",
+    "reason": "no allowed formula reproduces published cross (4493 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4493,
+      "ast_long": null,
+      "b13": 751,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h4-0ft5",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2570,
+      "wheels": "2x / 2",
+      "x": 523
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h4-0ft6": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4322,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4522,
+        "residual": -200
+      }
+    ],
+    "fingerprint": "7d7d0b600dff9e09a30638af5ac8917aff37b1069ac5e5c9611e031c6d5e6f91",
+    "reason": "no allowed formula reproduces published cross (4522 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4522,
+      "ast_long": null,
+      "b13": 751,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h4-0ft6",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2599,
+      "wheels": "2x / 2",
+      "x": 523
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h4-5ft6": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4628,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4828,
+        "residual": -200
+      }
+    ],
+    "fingerprint": "6fe9002bc06ecc78ad2b5bdb8d165a5c13dbe62e66f6ae20405f409c7cfc0705",
+    "reason": "no allowed formula reproduces published cross (4828 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4828,
+      "ast_long": null,
+      "b13": 800,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h4-5ft6",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2837,
+      "wheels": "2x / 2",
+      "x": 591
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h4-5fts5": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4410,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4542,
+        "residual": -132
+      }
+    ],
+    "fingerprint": "67bfadb13aba7c805fc4c6d1cbc899894805fc974abf7a7b9e08470519c6d8ac",
+    "reason": "no allowed formula reproduces published cross (4542 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4542,
+      "ast_long": null,
+      "b13": 751,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h4-5fts5",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2619,
+      "wheels": "2x / 2",
+      "x": 591
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h5-0ft": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4668,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4868,
+        "residual": -200
+      }
+    ],
+    "fingerprint": "3c2e51ad9c19a2cd6a20a9962f5792e50325e8315473f2dbabb6dccdbbf60247",
+    "reason": "no allowed formula reproduces published cross (4868 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4868,
+      "ast_long": null,
+      "b13": 800,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h5-0ft",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2877,
+      "wheels": "2x / 2",
+      "x": 591
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/h5-5ft": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 4706,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4906,
+        "residual": -200
+      }
+    ],
+    "fingerprint": "f6b0bf76d38948832e70c29a257a560a7e456de3cdb2b9395f10031b2e5aecff",
+    "reason": "no allowed formula reproduces published cross (4906 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 4906,
+      "ast_long": null,
+      "b13": 800,
+      "category": "Diesel Forklifts",
+      "identity": "hyster/h5-5ft",
+      "source_date": "2019-01-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/cismea/documents/trucks-literature/internal-combustion-forklift-trucks-pneumatic-tyre/h4.0-5.5ft/h4.0-5.5ft-u005-dsl-tg-01-2019-noneu-rev03-en.pdf",
+      "wa": 2915,
+      "wheels": "2x / 2",
+      "x": 591
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/j2-2a": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 3703,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3654,
+        "residual": 49
+      }
+    ],
+    "fingerprint": "2debb519f83e2ee0e15a1328242be2bb73292379f07652abedd74f13c4775d33",
+    "reason": "no allowed formula reproduces published cross (3654 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 3654,
+      "ast_long": 3799,
+      "b13": 123,
+      "category": "Electric Forklifts",
+      "identity": "hyster/j2-2a",
+      "source_date": "2025-07-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/4-wheel-electric-forklift-trucks/j2.2-3.5a/3997373_hyster_j_2-2_3-5a_b276_tech_guide_en_emea_online.pdf",
+      "wa": 1958,
+      "wheels": "2x / 2",
+      "x": 424
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/j2-5a": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "c3ab0304d27198121f1e3e31a1ef33e0b1e853d968a80fec60e1772d8093e228",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "hyster/j2-5a",
+      "source_date": "2025-07-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/4-wheel-electric-forklift-trucks/j2.2-3.5a/3997373_hyster_j_2-2_3-5a_b276_tech_guide_en_emea_online.pdf",
+      "wa": null,
+      "wheels": "2x / 2",
+      "x": null
+    }
+  },
+  "hyster/j3-0a": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 3856,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3805,
+        "residual": 51
+      }
+    ],
+    "fingerprint": "6cef16ccb26bd910b386471e71e5ee6195bc3033b6b5816f5d29af058d104817",
+    "reason": "no allowed formula reproduces published cross (3805 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 3805,
+      "ast_long": 3953,
+      "b13": 134,
+      "category": "Electric Forklifts",
+      "identity": "hyster/j3-0a",
+      "source_date": "2025-07-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/4-wheel-electric-forklift-trucks/j2.2-3.5a/3997373_hyster_j_2-2_3-5a_b276_tech_guide_en_emea_online.pdf",
+      "wa": 2102,
+      "wheels": "2x / 2",
+      "x": 434
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/j3-5a": {
+    "calibrated": false,
+    "checks": [
+      {
+        "computed": 3923,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3871,
+        "residual": 52
+      }
+    ],
+    "fingerprint": "c70ce7f1e6bf9ce10935d1357d2230b3056d2b29852d898628855ac1112f3215",
+    "reason": "no allowed formula reproduces published cross (3871 mm) within 15 mm",
+    "snapshot": {
+      "ast_cross": 3871,
+      "ast_long": 4019,
+      "b13": 134,
+      "category": "Electric Forklifts",
+      "identity": "hyster/j3-5a",
+      "source_date": "2025-07-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/4-wheel-electric-forklift-trucks/j2.2-3.5a/3997373_hyster_j_2-2_3-5a_b276_tech_guide_en_emea_online.pdf",
+      "wa": 2169,
+      "wheels": "2x / 2",
+      "x": 434
+    },
+    "truck_type": "cb4"
+  },
+  "hyster/p1-6": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2337,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2337,
+        "residual": 0
+      },
+      {
+        "computed": 2204,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2204,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "55ae53628e35746d66c92bc56a7efdf8c79ec9c7a3d47363a5bc655325130924",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2337,
+      "ast_long": 2204,
+      "b13": null,
+      "category": "Pallet Trucks",
+      "identity": "hyster/p1-6",
+      "source_date": "2019-09-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-trucks/p1.6-2.2/p1.6-2.2-a418-tg-09-2019-emea-rev03-en.pdf",
+      "wa": 1535,
+      "wheels": "1x+2 / 2",
+      "x": 955
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/p1-8": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2337,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2337,
+        "residual": 0
+      },
+      {
+        "computed": 2204,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2204,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "b9d3f4a0c1ad34cd03d3992dbde7df453ca1c6c353a49e7e5df8b27a8f6c0bcd",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2337,
+      "ast_long": 2204,
+      "b13": null,
+      "category": "Pallet Trucks",
+      "identity": "hyster/p1-8",
+      "source_date": "2019-09-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-trucks/p1.6-2.2/p1.6-2.2-a418-tg-09-2019-emea-rev03-en.pdf",
+      "wa": 1535,
+      "wheels": "1x+2 / 2",
+      "x": 955
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/p2-0": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2409,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2409,
+        "residual": 0
+      },
+      {
+        "computed": 2276,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2276,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "365fbdb49cd1a780ef731dd39191de3d1da2cce0f56b423e0dd05ee51d3b4a41",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2409,
+      "ast_long": 2276,
+      "b13": null,
+      "category": "Pallet Trucks",
+      "identity": "hyster/p2-0",
+      "source_date": "2019-09-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-trucks/p1.6-2.2/p1.6-2.2-a418-tg-09-2019-emea-rev03-en.pdf",
+      "wa": 1607,
+      "wheels": "1x+2 / 2",
+      "x": 955
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/p2-2": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2409,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2409,
+        "residual": 0
+      },
+      {
+        "computed": 2276,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2276,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "5dd921320d55f5c90cd0f68c3123c82b3663fa204508cf4fd2dc3f64e1d3be1b",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2409,
+      "ast_long": 2276,
+      "b13": null,
+      "category": "Pallet Trucks",
+      "identity": "hyster/p2-2",
+      "source_date": "2019-09-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-trucks/p1.6-2.2/p1.6-2.2-a418-tg-09-2019-emea-rev03-en.pdf",
+      "wa": 1607,
+      "wheels": "1x+2 / 2",
+      "x": 955
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r1-4": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2825,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2826,
+        "residual": -1
+      },
+      {
+        "computed": 2894,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2895,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "84c7d041dde3e1cc72c458ab165eb0d37313c30609953286c000ef5e43c91deb",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2826,
+      "ast_long": 2895,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r1-4",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1671,
+      "wheels": "1x / 2",
+      "x": 258
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r1-6": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2834,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2834,
+        "residual": 0
+      },
+      {
+        "computed": 2896,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2896,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "ff49f681b0e78c301dda35f9be8875cf1d8e8489ff9c17c8791f91b4d5b810a0",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2834,
+      "ast_long": 2896,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r1-6",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1718,
+      "wheels": "1x / 2",
+      "x": 308
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r1-6hd": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2845,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2845,
+        "residual": 0
+      },
+      {
+        "computed": 2909,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2909,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "8af1d80548d130d581e97e0eeb50703120a0814f471581fe26eb69e1133402dd",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2845,
+      "ast_long": 2909,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r1-6hd",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1718,
+      "wheels": "1x / 2",
+      "x": 293
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r1-6n": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2898,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2899,
+        "residual": -1
+      },
+      {
+        "computed": 2975,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2976,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "6a93d77cf07756bed2961a7818a2251cb213a366e86607baf13cfc741b1cb681",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2899,
+      "ast_long": 2976,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r1-6n",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1700,
+      "wheels": "1x / 2",
+      "x": 202
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r2-0": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2857,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2857,
+        "residual": 0
+      },
+      {
+        "computed": 2913,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2913,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "52223a6b5e0ef8e5a280bb241a130b122ea27f6319cb1acfd2eed150bf56a4d4",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2857,
+      "ast_long": 2913,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r2-0",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1767,
+      "wheels": "1x / 2",
+      "x": 343
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r2-0hd": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2915,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2915,
+        "residual": 0
+      },
+      {
+        "computed": 2983,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2984,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "d60204e1fa481d25d6e34f5726545c5cb4bdad763f21d04ade4ba4bd926f2123",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2915,
+      "ast_long": 2984,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r2-0hd",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1767,
+      "wheels": "1x / 2",
+      "x": 266
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/r2-5": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 2948,
+        "formula": "F1",
+        "pallet": "cross",
+        "published": 2949,
+        "residual": -1
+      },
+      {
+        "computed": 2991,
+        "formula": "F1",
+        "pallet": "long",
+        "published": 2992,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "b87358211efdf5b5d4296ee6c082e666f5fee98982a4f1b3cacf9e48e19ec5e0",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 2949,
+      "ast_long": 2992,
+      "b13": null,
+      "category": "Reach Trucks",
+      "identity": "hyster/r2-5",
+      "source_date": "2021-04-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/reach-trucks/r1.4-2.5/r1.4-2.5-d435-tg-04-2021-emea-rev00-en-v2.pdf",
+      "wa": 1911,
+      "wheels": "1x / 2",
+      "x": 416
+    },
+    "truck_type": "low-level"
+  },
+  "hyster/s1-0c": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3111,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3111,
+        "residual": 0
+      },
+      {
+        "computed": 3227,
+        "formula": "F2",
+        "pallet": "long",
+        "published": 3227,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "b7e7db8b1c4159f81f609945aed425252d844aef203b5978d0a27ccd8769065e",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3111,
+      "ast_long": 3227,
+      "b13": null,
+      "category": "Stackers",
+      "identity": "hyster/s1-0c",
+      "source_date": "2021-12-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-stackers/s1.0-1.5c/3990201-s1.0-1.5c-c447-tg-12-2021-rev07-en-lrzmag.pdf",
+      "wa": 1560,
+      "wheels": "1x/2",
+      "x": 211
+    },
+    "truck_type": "cb3"
+  },
+  "hyster/s1-2c": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3258,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3258,
+        "residual": 0
+      },
+      {
+        "computed": 3374,
+        "formula": "F2",
+        "pallet": "long",
+        "published": 3374,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "32e30140b7a430ad5737eb628f6fe425688d6fd8c80242eccd3e15f686b71e35",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3258,
+      "ast_long": 3374,
+      "b13": null,
+      "category": "Stackers",
+      "identity": "hyster/s1-2c",
+      "source_date": "2021-12-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-stackers/s1.0-1.5c/3990201-s1.0-1.5c-c447-tg-12-2021-rev07-en-lrzmag.pdf",
+      "wa": 1707,
+      "wheels": "1x/2",
+      "x": 211
+    },
+    "truck_type": "cb3"
+  },
+  "hyster/s1-5c": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3406,
+        "formula": "F2",
+        "pallet": "cross",
+        "published": 3406,
+        "residual": 0
+      },
+      {
+        "computed": 3522,
+        "formula": "F2",
+        "pallet": "long",
+        "published": 3522,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "5fa8408e563c417caa74dfb1d109850a4a356f13f9b6cb5c31265cd7db946231",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3406,
+      "ast_long": 3522,
+      "b13": null,
+      "category": "Stackers",
+      "identity": "hyster/s1-5c",
+      "source_date": "2021-12-01",
+      "source_url": "https://www.hyster.com/globalassets/coms/hyster/emea/documents/trucks-literature/pallet-stackers/s1.0-1.5c/3990201-s1.0-1.5c-c447-tg-12-2021-rev07-en-lrzmag.pdf",
+      "wa": 1855,
+      "wheels": "1x/2",
+      "x": 211
+    },
+    "truck_type": "cb3"
+  },
+  "linde/x20-600": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4007,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4008,
+        "residual": -1
+      },
+      {
+        "computed": 4207,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4208,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "a1895b543850a23c206afe6c5b0cc6730136a8f052d1a712ee4b96f8b225a214",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4008,
+      "ast_long": 4208,
+      "b13": 655,
+      "category": "Electric Forklifts",
+      "identity": "linde/x20-600",
+      "source_date": "2021-01-01",
+      "source_url": "https://www.apexmhc.com/wp-content/uploads/2023/12/linde_1252_x20_x35_spec_sheet.pdf",
+      "wa": 2352,
+      "wheels": "2x / 2",
+      "x": 455
+    },
+    "truck_type": "cb4"
+  },
+  "linde/x25": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4007,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4008,
+        "residual": -1
+      },
+      {
+        "computed": 4207,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4208,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "4e7b271979b6a4f6c4cbccad573f9ce87df7cf145afcfcb31713d1196dacad97",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4008,
+      "ast_long": 4208,
+      "b13": 655,
+      "category": "Electric Forklifts",
+      "identity": "linde/x25",
+      "source_date": "2021-01-01",
+      "source_url": "https://www.apexmhc.com/wp-content/uploads/2023/12/linde_1252_x20_x35_spec_sheet.pdf",
+      "wa": 2352,
+      "wheels": "2x / 2",
+      "x": 455
+    },
+    "truck_type": "cb4"
+  },
+  "linde/x30": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4042,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4043,
+        "residual": -1
+      },
+      {
+        "computed": 4242,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4243,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "eb644f3490616478113bb8efc71c03abef1e45d9198f07d919e4db85ccb74d0d",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4043,
+      "ast_long": 4243,
+      "b13": 668,
+      "category": "Electric Forklifts",
+      "identity": "linde/x30",
+      "source_date": "2021-01-01",
+      "source_url": "https://www.apexmhc.com/wp-content/uploads/2023/12/linde_1252_x20_x35_spec_sheet.pdf",
+      "wa": 2394,
+      "wheels": "2x / 2",
+      "x": 448
+    },
+    "truck_type": "cb4"
+  },
+  "linde/x35": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4047,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4048,
+        "residual": -1
+      },
+      {
+        "computed": 4247,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4248,
+        "residual": -1
+      }
+    ],
+    "fingerprint": "ab0de6a9b53df1a8ea7d722cc434484902ba4e4ddb77f94f4828f2300729634a",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4048,
+      "ast_long": 4248,
+      "b13": 668,
+      "category": "Electric Forklifts",
+      "identity": "linde/x35",
+      "source_date": "2021-01-01",
+      "source_url": "https://www.apexmhc.com/wp-content/uploads/2023/12/linde_1252_x20_x35_spec_sheet.pdf",
+      "wa": 2394,
+      "wheels": "2x / 2",
+      "x": 453
+    },
+    "truck_type": "cb4"
+  },
+  "toyota/40-8fgu15": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "0b1abb2499fea5288c68843f0c4c96d3a68a85406c28a905e194ec0d2b1f8ffb",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu15",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 1930,
+      "wheels": "2x / 2",
+      "x": 405
+    }
+  },
+  "toyota/40-8fgu18": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "231b1de89dd345d30f1e5b4f518b2b4f245198341fd278600125542c5ad7396b",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu18",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 1980,
+      "wheels": "2x / 2",
+      "x": 405
+    }
+  },
+  "toyota/40-8fgu20": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "73f83a655b42998a306badf0fbd29c1be2a5772dc6bc88aeac77a49f28bf499c",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu20",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2150,
+      "wheels": "2x / 2",
+      "x": 470
+    }
+  },
+  "toyota/40-8fgu25": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "096b50a7e129395e54e8a6c951fe7ebefc813e6c82634ed81b661a1801a3da6e",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu25",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2220,
+      "wheels": "2x / 2",
+      "x": 470
+    }
+  },
+  "toyota/40-8fgu30": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "85b81011ebc10ff9bd854b1c4001e1a82b683ac1c8720760686ed2fab7003ffb",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu30",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2350,
+      "wheels": "2x / 2",
+      "x": 485
+    }
+  },
+  "toyota/40-8fgu32": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "46d86d62ce889da30c105e7aec5e2992d8db80f907a3271c7543f9fed7bc5bfc",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/40-8fgu32",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2370,
+      "wheels": "2x / 2",
+      "x": 485
+    }
+  },
+  "toyota/50-8fgu15": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "30b0b217fb90b93919aa669c93fc2273350a8538ef0adbb54d44e6c692e15fcd",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu15",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 1930,
+      "wheels": "2x / 2",
+      "x": 405
+    }
+  },
+  "toyota/50-8fgu18": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "aff9c1cec71cc929f2f65b46977e27c4540894611b0740a3c9a2ee5033434959",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu18",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 1980,
+      "wheels": "2x / 2",
+      "x": 405
+    }
+  },
+  "toyota/50-8fgu20": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "4814f434e355e83b4cbb15776ed0413f0528e30c28b571f8b45937b5bb071158",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu20",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2150,
+      "wheels": "2x / 2",
+      "x": 470
+    }
+  },
+  "toyota/50-8fgu25": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "00cafc971e419b5ef13970825eda89d97651389ea2346e7f52603ade836d99de",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu25",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2220,
+      "wheels": "2x / 2",
+      "x": 470
+    }
+  },
+  "toyota/50-8fgu30": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "d062faad7ed201ceb178ecb7652cf58b79782bea69fc6c8216dd3555a666a0de",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu30",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2350,
+      "wheels": "2x / 2",
+      "x": 485
+    }
+  },
+  "toyota/50-8fgu32": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "7cf7af9089a45921e9084297797b6bc297114023b8e0195f5d7b032c5c0b9750",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "LPG Forklifts",
+      "identity": "toyota/50-8fgu32",
+      "source_date": "2023-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2023_Core%20IC%20Pneumatic_Spec%20Sheet_Digital.pdf",
+      "wa": 2370,
+      "wheels": "2x / 2",
+      "x": 485
+    }
+  },
+  "toyota/8fbc15u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "cc22639ac4b137a5f85b3e09b22c1f6bebba6f13ca31d1ee49fbc075c6ca5dd4",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc15u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1685,
+      "wheels": "2x / 2",
+      "x": 400
+    }
+  },
+  "toyota/8fbc18u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "dc82feba6a6e374ef6ef62ee3fa96e6b5b1054867693aa08bf7aaa8cb9fe2b71",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc18u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1685,
+      "wheels": "2x / 2",
+      "x": 400
+    }
+  },
+  "toyota/8fbc20u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "94313cc38e22f6b6ecb63440ec08560606d713a15fe20c2efb008720ddad9632",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc20u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1790,
+      "wheels": "2x / 2",
+      "x": 425
+    }
+  },
+  "toyota/8fbc20u-comp": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "e5bee3d1584441c0f641bbfb625cb42d27833c5002e8b1f62329149cdd178b3b",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc20u-comp",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1740,
+      "wheels": "2x / 2",
+      "x": 425
+    }
+  },
+  "toyota/8fbc25u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "72a8432742d0f436bd371255cbb185b751b36e274c5ddb77e8036fb0dad07ebb",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc25u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1800,
+      "wheels": "2x / 2",
+      "x": 425
+    }
+  },
+  "toyota/8fbc25u-comp": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "b979ef2f1e9f9f77a4f16de39be65639a12fe7ec666107d9fd5c2f221329106c",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc25u-comp",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1750,
+      "wheels": "2x / 2",
+      "x": 425
+    }
+  },
+  "toyota/8fbc28u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "5ef44ce744c3930965461b878aca2782d55c2599aa0dd11564f1c28757b7a558",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc28u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1945,
+      "wheels": "2x / 2",
+      "x": 450
+    }
+  },
+  "toyota/8fbc30u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "6982bcde6749a7b56995dbcb597c8e9336bf9278b0c184f4d4138ed5b87d3bc2",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc30u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1960,
+      "wheels": "2x / 2",
+      "x": 450
+    }
+  },
+  "toyota/8fbc32u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "d6c83bd410060442d690f9997d72d963ca283a32558ed0980996c4ded6f00c32",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbc32u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 2000,
+      "wheels": "2x / 2",
+      "x": 450
+    }
+  },
+  "toyota/8fbch25u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "92f7474a6084fec325ad7ec71135cca7d1bbd03f833f1d09b343d56e9c16a702",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbch25u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 1940,
+      "wheels": "2x / 2",
+      "x": 425
+    }
+  },
+  "toyota/8fbch32u": {
+    "calibrated": false,
+    "checks": [],
+    "fingerprint": "207015b15de25aec36a69f62cc453c777d01231d342775eb2ac7e701dcb0565b",
+    "reason": "missing Wa, x or every published Ast line",
+    "snapshot": {
+      "ast_cross": null,
+      "ast_long": null,
+      "b13": null,
+      "category": "Electric Forklifts",
+      "identity": "toyota/8fbch32u",
+      "source_date": "2024-01-01",
+      "source_url": "https://www.toyotaforklift.com/content/dam/tmh/marketing/en/pdf/product-spec-brochures/2024_Core%20Electric_Spec%20Sheet_Digital.pdf",
+      "wa": 2090,
+      "wheels": "2x / 2",
+      "x": 450
+    }
+  },
+  "yale/glp20vx": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3820,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3820,
+        "residual": 0
+      },
+      {
+        "computed": 4020,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4020,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "934687634d31824c808f1a2ebf611cf10c6c41cefd65a3ba78228d60c2aa2bec",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3820,
+      "ast_long": 4020,
+      "b13": 629,
+      "category": "LPG Forklifts",
+      "identity": "yale/glp20vx",
+      "source_date": "2019-03-01",
+      "source_url": "https://www.yale.com/globalassets/coms/yale/cismea/documents/internal-combustion-trucks-pneumatic-tyre/gdpglp20-35vx/220990296-vx-series-spec-sheet-lpg-rev02-en-lowres-zmag.pdf",
+      "wa": 2149,
+      "wheels": "2x / 2",
+      "x": 471
+    },
+    "truck_type": "cb4"
+  },
+  "yale/glp25vx": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3887,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3887,
+        "residual": 0
+      },
+      {
+        "computed": 4087,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4087,
+        "residual": 0
+      }
+    ],
+    "fingerprint": "866d29761685134b2c181ec65a1e8950af33f94289dd4afd1aab4ae1c047b637",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3887,
+      "ast_long": 4087,
+      "b13": 629,
+      "category": "LPG Forklifts",
+      "identity": "yale/glp25vx",
+      "source_date": "2019-03-01",
+      "source_url": "https://www.yale.com/globalassets/coms/yale/cismea/documents/internal-combustion-trucks-pneumatic-tyre/gdpglp20-35vx/220990296-vx-series-spec-sheet-lpg-rev02-en-lowres-zmag.pdf",
+      "wa": 2216,
+      "wheels": "2x / 2",
+      "x": 471
+    },
+    "truck_type": "cb4"
+  },
+  "yale/glp30vx": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 3960,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 3955,
+        "residual": 5
+      },
+      {
+        "computed": 4160,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4155,
+        "residual": 5
+      }
+    ],
+    "fingerprint": "59165c014273aa35e49107faafc32c2600ce6653108e226d0e7faa276e160873",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 3955,
+      "ast_long": 4155,
+      "b13": 618,
+      "category": "LPG Forklifts",
+      "identity": "yale/glp30vx",
+      "source_date": "2019-03-01",
+      "source_url": "https://www.yale.com/globalassets/coms/yale/cismea/documents/internal-combustion-trucks-pneumatic-tyre/gdpglp20-35vx/220990296-vx-series-spec-sheet-lpg-rev02-en-lowres-zmag.pdf",
+      "wa": 2277,
+      "wheels": "2x / 2",
+      "x": 483
+    },
+    "truck_type": "cb4"
+  },
+  "yale/glp35vx": {
+    "calibrated": true,
+    "checks": [
+      {
+        "computed": 4063,
+        "formula": "F3",
+        "pallet": "cross",
+        "published": 4058,
+        "residual": 5
+      },
+      {
+        "computed": 4263,
+        "formula": "F3",
+        "pallet": "long",
+        "published": 4258,
+        "residual": 5
+      }
+    ],
+    "fingerprint": "e21582ec88e6d2ab71abc0e1f37bb34615a01478f152268271c0ed15ea5036ae",
+    "reason": null,
+    "snapshot": {
+      "ast_cross": 4058,
+      "ast_long": 4258,
+      "b13": 647,
+      "category": "LPG Forklifts",
+      "identity": "yale/glp35vx",
+      "source_date": "2019-03-01",
+      "source_url": "https://www.yale.com/globalassets/coms/yale/cismea/documents/internal-combustion-trucks-pneumatic-tyre/gdpglp20-35vx/220990296-vx-series-spec-sheet-lpg-rev02-en-lowres-zmag.pdf",
+      "wa": 2380,
+      "wheels": "2x / 2",
+      "x": 483
+    },
+    "truck_type": "cb4"
+  }
+}
